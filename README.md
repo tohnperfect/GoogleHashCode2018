@@ -1,5 +1,5 @@
 # GoogleHashCode2018
 
-Our solution got 45,086,029 points
+Our solution got 44,670,316 points
 
 #hashcodesolved 
